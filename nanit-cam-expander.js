@@ -5,7 +5,7 @@
   Steps:
   1. Open https://my.nanit.com
   2. Open the Console in your browser's Developer Tools: https://balsamiq.com/support/faqs/browserconsole
-  3. Copy paste the below script.
+  3. Copy paste the below script in the Console, and press Enter/return to run it
   4. Done!
 */
 
